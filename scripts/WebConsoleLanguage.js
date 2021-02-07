@@ -180,7 +180,7 @@ function setLanguage(locale){
 				"home_description": "請使用工具列添加新伺服器, 或連接至已設定的伺服器.",
 				"serversDropdown": "你的伺服器",
 				"add_server": "新增伺服器",
-				"noServersAdded": "沒有新增伺服器",
+				"noServersAdded": "沒有已新增的伺服器",
 				"lang_dropdown": "語言",
 				"addServerModalLongTitle": "新增一個新伺服器",
 				"addServerModalSvName": "伺服器名稱:",
